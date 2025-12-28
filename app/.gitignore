@@ -1,0 +1,3 @@
+/build
+# Java heap dumps
+*.hprof

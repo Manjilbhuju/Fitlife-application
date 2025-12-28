@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433680007898",
+    "project_id": "fitlife-application-fb519",
+    "storage_bucket": "fitlife-application-fb519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433680007898:android:73b51666a7b8b726591be3",
+        "android_client_info": {
+          "package_name": "com.example.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433680007898-f48ju97chk0sn5ndrcd52t5o3d1iveam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalyearproject",
+            "certificate_hash": "9fea2c2cade7950bb7366b7bc08af36b7751ad93"
+          }
+        },
+        {
+          "client_id": "433680007898-f97f7u6rma7q8r8bf9od0upmgfsrgi9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqq-tPF7FjcLUW9wBPkRvAEezaL2DyPL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433680007898-f97f7u6rma7q8r8bf9od0upmgfsrgi9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
