@@ -3,6 +3,7 @@ package com.example.finalyearproject
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
+import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.appbar.MaterialToolbar
@@ -30,10 +31,15 @@ class ProfileActivity : AppCompatActivity() {
         tvUserName = findViewById(R.id.tv_user_name)
         tvUserEmail = findViewById(R.id.tv_user_email)
         ivProfile = findViewById(R.id.iv_profile_picture)
+        val profileHeader = findViewById<LinearLayout>(R.id.profile_header)
         val logoutButton = findViewById<MaterialCardView>(R.id.item_logout)
         val completedButton = findViewById<MaterialCardView>(R.id.item_completed_routine)
         val settingsButton = findViewById<MaterialCardView>(R.id.item_settings)
         val helpButton = findViewById<MaterialCardView>(R.id.item_help)
+
+        profileHeader.setOnClickListener {
+            startActivity(Intent(this, EditProfileActivity::class.java))
+        }
 
         logoutButton.setOnClickListener {
             firebaseAuth.signOut()
@@ -63,14 +69,17 @@ class ProfileActivity : AppCompatActivity() {
             when (it.itemId) {
                 R.id.navigation_workouts -> {
                     startActivity(Intent(this, MainActivity::class.java))
+                    finish()
                     true
                 }
                 R.id.navigation_equipment -> {
                     startActivity(Intent(this, EquipmentActivity::class.java))
+                    finish()
                     true
                 }
                 R.id.navigation_locations -> {
                     startActivity(Intent(this, LocationsActivity::class.java))
+                    finish()
                     true
                 }
                 else -> false

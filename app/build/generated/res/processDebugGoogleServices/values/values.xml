@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">433680007898-f97f7u6rma7q8r8bf9od0upmgfsrgi9n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">433680007898</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqq-tPF7FjcLUW9wBPkRvAEezaL2DyPL8</string>
+    <string name="google_app_id" translatable="false">1:433680007898:android:73b51666a7b8b726591be3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqq-tPF7FjcLUW9wBPkRvAEezaL2DyPL8</string>
+    <string name="google_storage_bucket" translatable="false">fitlife-application-fb519.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fitlife-application-fb519</string>
+</resources>

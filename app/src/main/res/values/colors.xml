@@ -4,6 +4,7 @@
     <color name="background">#FFFFFF</color>
     <color name="text_primary">#1F1F1F</color>
     <color name="text_secondary">#6B6B6B</color>
+    <color name="text_primary_dark">#E0E0E0</color>
     <color name="input_border">#E0E0E0</color>
     <color name="button_primary_dark">#151515</color>
     <color name="error_red">#FF6B6B</color>

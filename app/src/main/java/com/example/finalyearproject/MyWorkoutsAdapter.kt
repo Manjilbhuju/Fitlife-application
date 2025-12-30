@@ -3,8 +3,7 @@ package com.example.finalyearproject
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.PopupMenu
+import android.widget.ImageButton
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
@@ -41,7 +40,10 @@ class MyWorkoutsAdapter(
         private val subtitle: TextView = itemView.findViewById(R.id.tv_workout_subtitle)
         private val progress: ProgressBar = itemView.findViewById(R.id.progress_workout)
         private val chipGroup: ChipGroup = itemView.findViewById(R.id.chip_group_tags)
-        private val menu: ImageView = itemView.findViewById(R.id.iv_workout_actions)
+        private val editButton: ImageButton = itemView.findViewById(R.id.btn_edit_workout)
+        private val shareButton: ImageButton = itemView.findViewById(R.id.btn_share_workout)
+        private val completeButton: ImageButton = itemView.findViewById(R.id.btn_complete_workout)
+        private val deleteButton: ImageButton = itemView.findViewById(R.id.btn_delete_workout)
 
         init {
             itemView.setOnClickListener {
@@ -61,34 +63,10 @@ class MyWorkoutsAdapter(
                 chipGroup.addView(chip)
             }
 
-            menu.setOnClickListener { showPopupMenu(it) }
-        }
-
-        private fun showPopupMenu(view: View) {
-            val popup = PopupMenu(view.context, view)
-            popup.inflate(R.menu.workout_card_menu)
-            popup.setOnMenuItemClickListener { item ->
-                when (item.itemId) {
-                    R.id.action_edit_workout -> {
-                        listener.onWorkoutEdit(adapterPosition)
-                        true
-                    }
-                    R.id.action_share_sms -> {
-                        listener.onWorkoutShare(adapterPosition)
-                        true
-                    }
-                    R.id.action_complete_workout -> {
-                        listener.onWorkoutCompleted(adapterPosition)
-                        true
-                    }
-                    R.id.action_delete_workout -> {
-                        listener.onWorkoutDeleted(adapterPosition)
-                        true
-                    }
-                    else -> false
-                }
-            }
-            popup.show()
+            editButton.setOnClickListener { listener.onWorkoutEdit(adapterPosition) }
+            shareButton.setOnClickListener { listener.onWorkoutShare(adapterPosition) }
+            completeButton.setOnClickListener { listener.onWorkoutCompleted(adapterPosition) }
+            deleteButton.setOnClickListener { listener.onWorkoutDeleted(adapterPosition) }
         }
     }
 }

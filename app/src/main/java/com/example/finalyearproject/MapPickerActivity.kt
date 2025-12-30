@@ -4,9 +4,11 @@ import android.Manifest
 import android.app.Activity
 import android.content.Intent
 import android.content.pm.PackageManager
+import android.location.Geocoder
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
+import android.widget.SearchView
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
@@ -20,12 +22,14 @@ import org.osmdroid.views.overlay.MapEventsOverlay
 import org.osmdroid.views.overlay.Marker
 import org.osmdroid.views.overlay.mylocation.GpsMyLocationProvider
 import org.osmdroid.views.overlay.mylocation.MyLocationNewOverlay
+import java.io.IOException
 
 class MapPickerActivity : AppCompatActivity() {
 
     private val LOCATION_PERMISSION_REQUEST_CODE = 1
     private lateinit var mapView: MapView
     private var selectedPoint: GeoPoint? = null
+    private lateinit var searchView: SearchView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -40,6 +44,18 @@ class MapPickerActivity : AppCompatActivity() {
         mapView = findViewById(R.id.map_picker_view)
         mapView.setTileSource(TileSourceFactory.MAPNIK)
         mapView.setMultiTouchControls(true)
+
+        searchView = findViewById(R.id.map_search_view)
+        searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query: String?): Boolean {
+                query?.let { searchLocation(it) }
+                return false
+            }
+
+            override fun onQueryTextChange(newText: String?): Boolean {
+                return false
+            }
+        })
 
         val mapController = mapView.controller
         mapController.setZoom(9.5)
@@ -71,6 +87,23 @@ class MapPickerActivity : AppCompatActivity() {
             }
         }
     }
+
+    private fun searchLocation(locationName: String) {
+        val geocoder = Geocoder(this)
+        try {
+            val addressList = geocoder.getFromLocationName(locationName, 1)
+            if (addressList != null && addressList.isNotEmpty()) {
+                val address = addressList[0]
+                val geoPoint = GeoPoint(address.latitude, address.longitude)
+                mapView.controller.animateTo(geoPoint)
+                addMarker(geoPoint)
+                selectedPoint = geoPoint
+            }
+        } catch (e: IOException) {
+            e.printStackTrace()
+        }
+    }
+
 
     private fun addMarker(p: GeoPoint) {
         mapView.overlays.removeAll { it is Marker }

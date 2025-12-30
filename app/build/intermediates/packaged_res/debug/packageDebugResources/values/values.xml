@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_codes">
+        <item>+91</item>
+        <item>+1</item>
+        <item>+44</item>
+        <item>+61</item>
+    </string-array>
+    <color name="background">#FFFFFF</color>
+    <color name="blue">#459DE4</color>
+    <color name="button_primary_dark">#151515</color>
+    <color name="error_red">#FF6B6B</color>
+    <color name="input_border">#E0E0E0</color>
+    <color name="primary">#6C63FF</color>
+    <color name="red">#FF0000</color>
+    <color name="text_primary">#1F1F1F</color>
+    <color name="text_primary_dark">#E0E0E0</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <string name="app_name">FinalYearProject</string>
+    <string name="default_web_client_id" translatable="false">433680007898-f97f7u6rma7q8r8bf9od0upmgfsrgi9n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">433680007898</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqq-tPF7FjcLUW9wBPkRvAEezaL2DyPL8</string>
+    <string name="google_app_id" translatable="false">1:433680007898:android:73b51666a7b8b726591be3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqq-tPF7FjcLUW9wBPkRvAEezaL2DyPL8</string>
+    <string name="google_storage_bucket" translatable="false">fitlife-application-fb519.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fitlife-application-fb519</string>
+    <style name="Base.Theme.FinalYearProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        
+        <item name="android:statusBarColor">@color/button_primary_dark</item>
+        
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+    </style>
+    <style name="Theme.FinalYearProject" parent="Base.Theme.FinalYearProject"/>
+    <style name="Widget.App.TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Widget.App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="hintTextColor">@color/text_secondary</item>
+    </style>
+</resources>

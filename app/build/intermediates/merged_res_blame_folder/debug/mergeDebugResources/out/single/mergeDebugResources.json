@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_button_background.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/menu_workout_card_menu.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/menu/workout_card_menu.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_dialog_add_equipment.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/dialog_add_equipment.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/menu_main_bottom_navigation.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/menu/main_bottom_navigation.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/menu_bottom_navigation_menu.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_help.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/menu_exercise_item_menu.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/menu/exercise_item_menu.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_equipment.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_equipment.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_social_button_background.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/social_button_background.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/menu_main_toolbar_menu.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/menu/main_toolbar_menu.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_workout.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_workout.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_edit_text_background_dark.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/edit_text_background_dark.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_completed_workouts.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_completed_workouts.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon_lightoutline.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon_lightoutline.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_fitlife.png.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/fitlife.png"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.finalyearproject.app-debug-50:/layout_activity_profile.xml.flat",
+        "source": "com.example.finalyearproject.app-main-52:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_dialog_name_location.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/dialog_name_location.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_equipment.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_equipment.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_register.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_edit_workout.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_edit_workout.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon_boldoutline.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon_boldoutline.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_add_workout.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_add_workout.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_toolbar_profile_icon.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/toolbar_profile_icon.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_edit_profile.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_my_workout.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_my_workout.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_challenge.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_challenge.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon_light.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon_light.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_locations.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_locations.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_dialog_add_exercise.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/dialog_add_exercise.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/color_bottom_nav_item_color.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_profile.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_login.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/xml_backup_rules.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_exercise.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_exercise.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_error_edit_text_background.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/error_edit_text_background.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_map_picker.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_map_picker.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_settings.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_map_display.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_map_display.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon_outline.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon_outline.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/drawable_edit_text_background.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/layout_item_location.xml.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/layout/item_location.xml"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/font_hamon_bold.otf.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/font/hamon_bold.otf"
+    },
+    {
+        "merged": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/manjilbhuju/.gradle/daemon/9.0-milestone-1/com.example.finalyearproject.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

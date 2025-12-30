@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <style name="Base.Theme.FinalYearProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+        <item name="colorOnSurface">@color/text_primary_dark</item> 
+    </style>
+    <style name="Widget.App.TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/text_primary_dark</item>
+    </style>
+</resources>
