@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_edit_workout"
+        android:title="Edit" />
+    <item
+        android:id="@+id/action_share_sms"
+        android:title="Share via SMS" />
+    <item
+        android:id="@+id/action_complete_workout"
+        android:title="Mark as Complete" />
+    <item
+        android:id="@+id/action_delete_workout"
+        android:title="Delete" />
+</menu>

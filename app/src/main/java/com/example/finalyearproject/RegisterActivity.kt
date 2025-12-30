@@ -39,7 +39,7 @@ class RegisterActivity : AppCompatActivity() {
         val etName = findViewById<EditText>(R.id.etName)
         val etEmail = findViewById<EditText>(R.id.etEmail)
         val etPassword = findViewById<EditText>(R.id.etPassword)
-        val etReEnterPassword = findViewById<EditText>(R.id.etReEnterPassword)
+        val etRePassword = findViewById<EditText>(R.id.etRePassword)
         val btnSignUp = findViewById<MaterialButton>(R.id.btnSignUp)
         val tvSignIn = findViewById<TextView>(R.id.tvSignIn)
         val btnGoogle = findViewById<MaterialButton>(R.id.btnGoogle)
@@ -48,7 +48,7 @@ class RegisterActivity : AppCompatActivity() {
             val name = etName.text.toString()
             val email = etEmail.text.toString()
             val password = etPassword.text.toString()
-            val reEnterPassword = etReEnterPassword.text.toString()
+            val reEnterPassword = etRePassword.text.toString()
 
             if (name.isEmpty() || email.isEmpty() || password.isEmpty() || reEnterPassword.isEmpty()) {
                 Toast.makeText(this, "Please fill in all fields", Toast.LENGTH_SHORT).show()
